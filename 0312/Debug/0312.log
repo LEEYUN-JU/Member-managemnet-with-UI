@@ -1,0 +1,27 @@
+﻿빌드 시작: 2019-03-12 오후 3:17:44
+     1>2 노드의 "C:\Users\user\Desktop\sample\0312\0312\0312.vcxproj" 프로젝트(Rebuild 대상)입니다.
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt handler.cpp member.cpp newmemberproc.cpp selectmemberproc.cpp start.cpp ui.cpp
+         ui.cpp
+         start.cpp
+         selectmemberproc.cpp
+         newmemberproc.cpp
+         member.cpp
+         handler.cpp
+         코드를 생성하고 있습니다...
+       ResourceCompile:
+         C:\Program Files\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\0312.res" 0312.rc 
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\user\Desktop\sample\0312\Debug\0312.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\user\Desktop\sample\0312\Debug\0312.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\user\Desktop\sample\0312\Debug\0312.lib" /MACHINE:X86 Debug\0312.res
+         Debug\handler.obj
+         Debug\member.obj
+         Debug\newmemberproc.obj
+         Debug\selectmemberproc.obj
+         Debug\start.obj
+         Debug\ui.obj
+         0312.vcxproj -> C:\Users\user\Desktop\sample\0312\Debug\0312.exe
+     1>"C:\Users\user\Desktop\sample\0312\0312\0312.vcxproj" 프로젝트를 빌드했습니다(Rebuild 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:03.43
